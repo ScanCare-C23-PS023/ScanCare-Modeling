@@ -14,7 +14,7 @@ This project serves as the capstone project for the Bangkit 2023 Batch 1 program
 
 ## Usage
 Access the Jupyter Notebook archives in the notebooks/ directory to review the training history and experiments.
-Download the trained model files (.h5) from the models/ directory for skincare recommendations.
+Download the trained model files (.h5) from the releases
 
 ## Authors
 - Ilham Zakariya - Mobile Development - [Maxisud](https://github.com/Maxisud)
