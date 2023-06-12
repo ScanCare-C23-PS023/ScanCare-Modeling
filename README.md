@@ -1,4 +1,4 @@
-# ScanCare-machine-learning
+# ScanCare-Modeling
 
 ![Scancare Logo](https://raw.githubusercontent.com/ScanCare-C23-PS023/ScanCare-mobile-development/master/logo_scancare.png)
 
